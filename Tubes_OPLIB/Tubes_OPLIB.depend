@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1672501850 source:d:\codeblock\tugas tp\tubes_oplib\main.cpp
+	<iostream>
+	"oplib.h"
+
+1672501779 d:\codeblock\tugas tp\tubes_oplib\oplib.h
+	<iostream>
+
+1672501809 source:d:\codeblock\tugas tp\tubes_oplib\oplib.cpp
+	"oplib.h"
+
+1672578000 source:d:\data\joki\jokibyserenity - no. 03 - double linked list\tubes_oplib\main.cpp
+	<iostream>
+	"oplib.h"
+
+1672506816 d:\data\joki\jokibyserenity - no. 03 - double linked list\tubes_oplib\oplib.h
+	<iostream>
+
+1672578693 source:d:\data\joki\jokibyserenity - no. 03 - double linked list\tubes_oplib\oplib.cpp
+	"oplib.h"
+
+1672581965 source:d:\codeblock\tugas tp\jokibyserenity - no. 03 - double linked list\tubes_oplib\oplib.cpp
+	"oplib.h"
+
+1672506816 d:\codeblock\tugas tp\jokibyserenity - no. 03 - double linked list\tubes_oplib\oplib.h
+	<iostream>
+
+1672582040 source:d:\codeblock\tugas tp\jokibyserenity - no. 03 - double linked list\tubes_oplib\main.cpp
+	<iostream>
+	"oplib.h"
+
+1672582040 source:d:\codeblock\tugas tp\tubes_oplib_if-45-11\tubes_oplib\main.cpp
+	<iostream>
+	"oplib.h"
+
+1672506816 d:\codeblock\tugas tp\tubes_oplib_if-45-11\tubes_oplib\oplib.h
+	<iostream>
+
+1672581965 source:d:\codeblock\tugas tp\tubes_oplib_if-45-11\tubes_oplib\oplib.cpp
+	"oplib.h"
+
